@@ -1,5 +1,13 @@
 ### Hi there 👋
+I'm a Systems Engineer with a strong passion for frontend development. I have hands-on experience working with React, Angular, and Node.js, as well as core web technologies like HTML and CSS.
 
+On the backend, I’ve worked with Java (Spring Boot), .NET, and API development using microservices architecture. I’m also experienced with relational and non-relational databases including Oracle, SQL Server, PostgreSQL, MongoDB, and Firebase.
+
+I love learning new technologies, and I’m especially interested in artificial intelligence and its applications.
+
+Outside of coding, I’m passionate about fitness, healthy living, and football (soccer).
+
+Always curious. Always building. 🚀
 <!--
 **Walther17/Walther17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
